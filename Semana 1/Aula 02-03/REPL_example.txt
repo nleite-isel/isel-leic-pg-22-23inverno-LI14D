@@ -1,0 +1,14 @@
+
+// Declare value x2
+val x2: Long = 7L
+
+// Print
+x2
+
+//res8: kotlin.Long = 7
+
+// Declare binary value
+val bin: Int = 0b10
+
+// Print
+bin
